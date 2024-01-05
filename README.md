@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateo Ortega</h1>
-<h3 align="center">Masters Student and Full Time Software Engineer at RTX</h3>
+<h3 align="center">Masters of Computer Science Student and Full Time Software Engineer at RTX</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teoort&label=Profile%20views&color=0e75b6&style=flat" alt="teoort" /> </p>
 
